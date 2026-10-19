@@ -1,0 +1,74 @@
+{
+  "usergroups": [
+    {
+      "name": "AWS User Group Dakar",
+      "location": "Dakar, Sénégal",
+      "country": "🇸🇳 Sénégal",
+      "meetupUrl": "https://www.meetup.com/fr-fr/aws-user-group-dakar/",
+      "coordinates": [
+        14.7167,
+        -17.4677
+      ]
+    },
+    {
+      "name": "AWS User Group Cotonou",
+      "location": "Cotonou, Bénin",
+      "country": "🇧🇯 Bénin",
+      "meetupUrl": "https://www.meetup.com/aws-user-group-benin/",
+      "coordinates": [
+        6.3703,
+        2.3912
+      ]
+    },
+    {
+      "name": "AWS Users Group Brazzaville",
+      "location": "Brazzaville, Congo",
+      "country": "🇨🇬 Congo",
+      "meetupUrl": "https://www.meetup.com/fr-FR/aws-users-group-brazzaville/",
+      "coordinates": [
+        -4.2634,
+        15.2429
+      ]
+    },
+    {
+      "name": "AWS User Group - Nairobi",
+      "location": "Nairobi, Kenya",
+      "country": "🇰🇪 Kenya",
+      "meetupUrl": "https://www.meetup.com/fr-fr/aws-user-group-nairobi/events/",
+      "coordinates": [
+        -1.2921,
+        36.8219
+      ]
+    },
+    {
+      "name": "AWS User Group Niger",
+      "location": "Niamey, Niger",
+      "country": "🇳🇪 Niger",
+      "meetupUrl": "https://www.meetup.com/aws-user-goup-niger",
+      "coordinates": [
+        13.5116,
+        2.1254
+      ]
+    },
+    {
+      "name": "AWS User Group - Cape Town",
+      "location": "Cape Town, Afrique du Sud",
+      "country": "🇿🇦 Afrique du Sud",
+      "meetupUrl": "https://www.meetup.com/fr-fr/aws-cpt/",
+      "coordinates": [
+        -33.9249,
+        18.4241
+      ]
+    },
+    {
+      "name": "AWS Cloud Security UG West Africa",
+      "location": "Lagos, Nigeria",
+      "country": "🇳🇬 Nigeria",
+      "meetupUrl": "https://www.meetup.com/aws-cloud-security-user-group-west-africa/",
+      "coordinates": [
+        6.5244,
+        3.3792
+      ]
+    }
+  ]
+}

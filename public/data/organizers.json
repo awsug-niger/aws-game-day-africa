@@ -1,0 +1,130 @@
+{
+  "organizers": [
+    {
+      "id": "hennie-francis",
+      "name": "Hennie Francis",
+      "role": "AWS Community builder",
+      "organization": "AWS User Group Cape Town",
+      "avatar": "/assets/img/organizers/hennie.png",
+      "linkedin": "https://za.linkedin.com/in/henniefrancis",
+      "bio": "https://henniefrancis.tech/"
+    },
+    {
+      "id": "annelie-francis",
+      "name": "Annelie Francis",
+      "role": "AWS Community builder",
+      "organization": "AWS User Group Cape Town",
+      "bio": "",
+      "avatar": "/assets/img/organizers/annelie-francis.jpg",
+      "linkedin": "https://za.linkedin.com/in/annelie-francis",
+      "twitter": "",
+      "email": ""
+    },
+    {
+      "id": "omar-sidikou",
+      "name": "Omar Sidikou",
+      "role": "User Group Leader",
+      "organization": "AWS User Group Niger",
+      "bio": "",
+      "avatar": "/assets/img/organizers/omar-sidikou.jpeg",
+      "linkedin": "https://www.linkedin.com/in/omar-sidikou/",
+      "twitter": "",
+      "email": ""
+    }
+  ],
+  "awsStaff": [
+    {
+      "id": "natalia-stones",
+      "name": "Natalia Stones",
+      "role": "Community Manager",
+      "organization": "Amazon Web Services",
+      "bio": "",
+      "avatar": "/assets/img/organizers/natalia-stones.png",
+      "email": "",
+      "linkedin": "https://www.linkedin.com/in/nataliastones/"
+    },
+    {
+      "id": "echo-pan",
+      "name": "Echo Pan",
+      "role": "Student Community Manager",
+      "organization": "Amazon Web Services",
+      "bio": "",
+      "avatar": "/assets/img/organizers/echo-pan.jpg",
+      "email": "",
+      "linkedin": "https://www.linkedin.com/in/shengyi-pan/"
+    },
+    {
+      "id": "loic-fournier",
+      "name": "Loic Fournier",
+      "role": "Senior technical Account Manager",
+      "organization": "Amazon Web Services",
+      "bio": "",
+      "avatar": "/assets/img/organizers/loic-fournier.jpeg",
+      "linkedin": "https://www.linkedin.com/in/loicfournier/",
+      "email": ""
+    },
+    {
+      "id": "jean-christophe-alonzeau",
+      "name": "Jean-Christophe Alonzeau",
+      "role": "Senior Engagement Manager",
+      "organization": "Amazon Web Services",
+      "bio": "",
+      "avatar": "/assets/img/organizers/jean-christophe-alonzeau.jpeg",
+      "linkedin": "https://www.linkedin.com/in/jcalonzeau/",
+      "email": ""
+    },
+    {
+      "id": "carl-kone",
+      "name": "Carl Kone",
+      "role": "Solution Architect",
+      "organization": "Amazon Web Services",
+      "bio": "",
+      "avatar": "/assets/img/organizers/carl-kone.jpg",
+      "linkedin": "https://fr.linkedin.com/in/carl-kone-takuefou-a20a3a1bb",
+      "email": ""
+    }
+  ],
+  "awsHelpers": [
+    {
+      "id": "community-managers-team",
+      "name": "Community Managers",
+      "role": "Relais communautaire",
+      "organization": "Amazon Web Services",
+      "bio": "",
+      "avatar": "👥",
+      "email": "community-managers@aws.com",
+      "members": [
+        "echo-pan",
+        "natalia-stones"
+      ]
+    },
+    {
+      "id": "developer-advocates-team",
+      "name": "Developer Advocates & Co.",
+      "role": "Support technique",
+      "organization": "Amazon Web Services",
+      "bio": "",
+      "avatar": "🚀",
+      "email": "developer-advocates@aws.com",
+      "members": [
+        "loic-fournier",
+        "jean-christophe-alonzeau",
+        "carl-kone"
+      ]
+    }
+  ],
+  "eventOrganizers": [
+    {
+      "id": "coordination-team",
+      "name": "Équipe de coordination",
+      "role": "Coordination générale",
+     "bio": "",
+      "avatar": "🎪",
+      "members": [
+        "hennie-francis",
+        "annelie-francis",
+        "omar-sidikou"
+      ]
+    }
+  ]
+}
